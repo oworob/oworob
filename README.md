@@ -3,7 +3,7 @@ Welcome to my GitHub! I'm a fullstack developer from Gdańsk who likes to make t
 
 ### Currently working on:
 
-[![LocaLite](https://github-readme-stats.vercel.app/api/pin/?username=oworob&repo=localite&show_owner=true)](https://github.com/oworob/localite)
+[![LocaLite](https://github-readme-stats.vercel.app/api/pin/?username=oworob&repo=localite&show_owner=true&theme=dark)](https://github.com/oworob/localite)
 
 ### My Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-c4af0c?style=for-the-badge&logo=javascript&logoColor=white)
@@ -34,6 +34,7 @@ Welcome to my GitHub! I'm a fullstack developer from Gdańsk who likes to make t
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-deab14?style=for-the-badge&logo=linux&logoColor=white)
 
 ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
