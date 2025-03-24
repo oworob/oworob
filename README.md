@@ -1,5 +1,9 @@
 ## Hey! 👋
-Welcome to my GitHub!
+Welcome to my GitHub! I like making things.
+
+### Currently working on:
+
+[![LocaLite](https://github-readme-stats.vercel.app/api/pin/?username=oworob&repo=localite&show_owner=true)](https://github.com/oworob/localite)
 
 ## My Tech Stack:
 
