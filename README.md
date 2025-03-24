@@ -1,6 +1,8 @@
 ## Hey! 👋
 Welcome to my GitHub! I'm a fullstack developer from Gdańsk who likes to make things.
 
+More about me, my skills and projects can be found on my [website](https://oworob.github.io/)!
+
 ### Currently working on:
 
 [![LocaLite](https://github-readme-stats.vercel.app/api/pin/?username=oworob&repo=localite&show_owner=true&theme=dark)](https://github.com/oworob/localite)
