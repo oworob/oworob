@@ -1,5 +1,5 @@
 ## Hey! 👋
-Welcome to my GitHub! I'm a fullstack developer from Gdańsk who likes to make things.
+Welcome to my GitHub! I'm a fullstack developer from Gdańsk who likes to make things. I'm also a translator for [Path of Titans](https://pathoftitans.com/)!
 
 More about me, my skills and projects can be found on my [website](https://oworob.github.io/)!
 
