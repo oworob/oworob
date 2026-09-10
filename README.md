@@ -24,13 +24,8 @@ Welcome to my GitHub! I'm a fullstack developer from Gdańsk who likes to make t
 ![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-deab14?style=for-the-badge&logo=linux&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/-Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
-![Miro](https://img.shields.io/badge/-Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### Things I'm learning:
 
