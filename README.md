@@ -1,5 +1,5 @@
 ## Hey! 👋
-Welcome to my GitHub! I'm a fullstack developer from Gdańsk who likes to make things. I'm also a translator for [Path of Titans](https://pathoftitans.com/)!
+Welcome to my GitHub! I'm a fullstack developer who likes to make pretty things. I'm also a translator for [Path of Titans](https://pathoftitans.com/)!
 
 ### Things I've worked with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-c4af0c?style=for-the-badge&logo=javascript&logoColor=white)
